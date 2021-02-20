@@ -29,5 +29,4 @@
 
 <br />
 <br />
-[linkedin]: https://www.linkedin.com/in/sandun-prabashana-3b821a1b1
-
+[linkedin]: https://linkedin.com/in/sandun-prabashana-3b821a1b1
