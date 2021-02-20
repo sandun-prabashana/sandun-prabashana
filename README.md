@@ -1,9 +1,6 @@
 ### Hello World, I'm Sandun  👋
 
-   <img align="right" alt="GIF"
-    src="https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif"
-    width="500" height="320
-  />
+   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif" width="500" height="320" />
 
 
 ## I'm a Student, Developer, and Creator!!
