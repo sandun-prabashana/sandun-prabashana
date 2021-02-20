@@ -12,7 +12,12 @@
 - ⚡ Fun fact: I speak 2 languages ( English, Sinhala)
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+  <a href="https://www.linkedin.com/in/ferdi-ardiansa-7737aa109/">
+    <img 
+      src="https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/linkedin.png"
+      width="30"
+    >
+  </a>
 
 <br />
 
