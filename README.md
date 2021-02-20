@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I speak 2 languages ( English, Sinhala)
 
 ### Talk with me, I am kinda awesome:
-  <a href="https://www.linkedin.com/in/sandun-prabashana-3b821a1b/">
+  <a href="https://www.linkedin.com/in/sandun-prabashana-3b821a1b1/">
     <img 
       src="https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/linkedin.png"
       width="30"
