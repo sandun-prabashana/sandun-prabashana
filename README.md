@@ -3,13 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandun-prabashana&label=Profile%20views&color=0e75b6&style=flat" alt="sandun-prabashana" /> </p>
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif" width="500" height="320" />
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandun-prabashana" alt="sandun-prabashana" /></a> </p>
-  <a href="https://www.linkedin.com/in/sandun-prabashana-3b821a1b1/">
-    <img 
-      src="https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/linkedin.png"
-      width="30"
-    >
-  </a>
+
 - 🔭 I’m currently working on **Epic Lanka (Pvt) Ltd**
 
 - 🌱 I’m currently doing **BSc in Software Engineering Degree**
