@@ -1,36 +1,30 @@
-### Hello World, I'm Sandun  👋
 
-   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif" width="500" height="320" />
+## Usage
 
+Explain how to use your project. Provide examples and instructions to help users understand its functionality.
 
-## I'm a Student, Developer, and Creator!!
-- 🔭 I’m currently working on my course
-- 🌱 I’m currently learning Java
-- 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I speak 2 languages ( English, Sinhala)
+## Contributing
 
-### Talk with me, I am kinda awesome:
-  <a href="https://www.linkedin.com/in/sandun-prabashana-3b821a1b1/">
-    <img 
-      src="https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/linkedin.png"
-      width="30"
-    >
-  </a>
+If you would like to contribute to the project, please follow the guidelines below:
 
-<br />
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes and commit them.
+4. Push your changes to your forked repository.
+5. Submit a pull request, explaining your changes in detail.
 
-### Languages and Tools:
+## License
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+Specify the license under which your project is distributed. For example:
 
-<br />
-<br />
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+Provide your contact information so that users can reach out to you with questions, feedback, or other inquiries. You can include your email address, social media profiles, or any other preferred method of contact.
+
+---
+
+Feel free to customize this template to fit your project's specific needs. You can add additional sections, such as "Features" or "Roadmap," if necessary.
+
+Once you've created your README file, you can add it to your GitHub repository by creating a new file named "README.md" in your repository's root directory and pasting the content.
