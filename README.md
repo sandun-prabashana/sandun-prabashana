@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sandun Prabashana</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif" width="500" height="320" display: flex  justify-content: center/>
+<p align="center">
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif" width="500" height="320" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandun-prabashana&label=Profile%20views&color=0e75b6&style=flat" alt="sandun-prabashana" /> </p>
 
